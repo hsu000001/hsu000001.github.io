@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://hsu000001.github.io
+title: hsu000001
+email: hsu.leslie@gmail.com
+author: Leslie Hsu
+description: about this and that
+paginate: 3
+google_analytics: 

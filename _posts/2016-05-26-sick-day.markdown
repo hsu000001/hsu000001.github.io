@@ -1,0 +1,6 @@
+---
+published: true
+title: sick day
+layout: post
+---
+<a href="https://xkcd.com/1157/">https://xkcd.com/1157/</a>
